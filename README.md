@@ -26,7 +26,7 @@ Manages authentication state across the application. Handles user data persisten
 
 Handles application-wide UI state management. Controls dark mode settings and navbar visibility preferences across components.
 
-## Extra Credit: Homepage Management
+## Homepage Management
 
 The application implements a single-instance homepage system where users are given options through a modal popup to either:
 
